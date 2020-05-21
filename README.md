@@ -1,8 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## joebroder.com
 
-## Available Scripts
+This is a personal website and blog that I build on top of [Create React App](https://github.com/facebook/create-react-app).
 
-In the project directory, you can run:
+You can run the following commands in the project directory:
 
 ### `npm start`
 
