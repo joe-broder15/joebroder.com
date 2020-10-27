@@ -16,9 +16,9 @@ class NavBar extends React.Component{
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse className="justify-content-end" id="responsive-navbar-nav">
                 <Nav>
-                    <Nav.Link style={{color: "white"}} href="">Blog (Coming Soon)</Nav.Link>
+                    <Nav.Link style={{color: "white"}} href="https://medium.com/@joe.broder15">Blog</Nav.Link>
                     <Nav.Link style={{color: "white"}} href="mailto:joe.broder@berkeley.edu">Email</Nav.Link>
-                    <Nav.Link style={{color: "white"}} href="Joe-Broder-CV.pdf">Resume</Nav.Link>
+                    <Nav.Link style={{color: "white"}} href="Joe Broder CV.pdf">Resume</Nav.Link>
                     <Nav.Link style={{color: "white"}} href="https://github.com/joe-broder15">Github</Nav.Link>
                     <Nav.Link style={{color: "white"}} href="https://www.linkedin.com/in/jdbroder/">Linkedin</Nav.Link>
                 </Nav>
