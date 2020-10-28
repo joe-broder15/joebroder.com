@@ -1,9 +1,6 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css'
-import HomePage from './containers/home'
-import BlogPage from './containers/blog'
-import NavBar from './containers/components/navbar'
+import './App.css';
+import HomePage from './containers/home';
 import {
   BrowserRouter as Router,
   Switch,
@@ -18,13 +15,8 @@ function App() {
     <div className="App">
       <Router>
         <Switch>
-          <Route path="/blog">
-            <NavBar />
-            <BlogPage/>
-          </Route>
           <Route path="/">
-            <NavBar />
-            <HomePage />
+            <HomePage/>
           </Route>
         </Switch>
       </Router>                 
