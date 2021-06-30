@@ -1,0 +1,61 @@
+#homepage {
+  /* background-color: black; */
+  width: 100%;
+  /* padding-top: 1em; */
+}
+
+#content {
+  /* background-color: white; */
+  background-color: #fefefe;
+  border-radius: 5px;
+  margin: auto;
+  padding: 20px;
+}
+
+.divider {
+  height: 1px;
+  width: 100%;
+  display: block; /* for use on default inline elements like span */
+  margin: 9px 0;
+  overflow: hidden;
+  background-color: #e5e5e5;
+}
+
+.divider-invisible {
+  height: 1px;
+  width: 100%;
+  display: block; /* for use on default inline elements like span */
+  margin: 9px 0;
+  overflow: hidden;
+}
+
+#myname {
+  font-size: 4em;
+  font-family: "Lato", sans-serif;
+  font-style: black;
+  align-items: center;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+}
+
+p {
+  font-size: 18px;
+}
+
+ul {
+  text-align: left;
+}
+
+h4 {
+  margin:0px;
+}
+
+h4 a {
+  text-decoration: none;
+  color: black;
+}
+
+h4 a:hover {
+  text-decoration: none;
+}

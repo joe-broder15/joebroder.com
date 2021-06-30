@@ -1,0 +1,58 @@
+{
+  "projects": [
+    {
+      "name": "Jorum",
+      "description": "A full stack forum where users can create threads and chat about topics using rich text. Built with my personal web template and currently hosted on heroku. Uses S3 and Postgres to store data.",
+      "image": "forum.png",
+      "links": {
+        "Repo": "https://github.com/joe-broder15/jorum",
+        "Website": "https://forum-joe-broder.herokuapp.com/#/"
+      }
+    },
+    {
+      "name": "Personal Web Template",
+      "description": "Full stack web template built with React, Flask, Marshmallow, bcrypt, and SQLAlchemy. Features JWT auth, password reset, email verification, public profiles, image uploads, and admin pannels.",
+      "image": "template.png",
+      "links": {
+        "Repo": "https://github.com/joe-broder15/web-template",
+        "Website": "https://web-template-joebroder.herokuapp.com/#/"
+      }
+    },
+    {
+      "name": "Indelve",
+      "description": "POC for an Ethererum based academic archive incentivizing publishing of curated research papers. Built as an internal project for B@B using Solidity, React.js, and Web3.js",
+      "image": "indelve.png",
+      "links": {
+        "Repo": "https://github.com/dtran16/curatedacademicjournal",
+        "Website": "NA"
+      }
+    },
+    {
+      "name": "ZBoard",
+      "description": "Full stack imageboard forum software built using flask, mongodb, and react. Users are able to create threads, post, and upload images. Admins can use a pannel to remove posts and threads.",
+      "image": "zchan.png",
+      "links": {
+        "Repo": "https://github.com/joe-broder15/ZBoard",
+        "Website": "NA"
+      }
+    },
+    {
+      "name": "Mango",
+      "description": "Offline kindle-like reader for manga scans using C++ and Qt. Features a thumbnail gallery, functionality for saving and loading books, and kinetic scrolling for easy use on touchscreens.",
+      "image": "mango.png",
+      "links": {
+        "Repo": "https://github.com/joe-broder15/mango",
+        "Website": "https://mangoreader.xyz/"
+      }
+    },
+    {
+      "name": "Shout-Out",
+      "description": "iOS app for finding local events. Events show as pins on a map, and users set a range to browse within. Users upload images and specify a lifetime for their posts. Built with Swift and Firebase",
+      "image": "shoutout.png",
+      "links": {
+        "Repo": "https://github.com/joe-broder15/OutSource",
+        "Website": "NA"
+      }
+    }
+  ]
+}
